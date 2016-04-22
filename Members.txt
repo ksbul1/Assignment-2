@@ -1,5 +1,9 @@
 List of Members for TEAM 086:
+<<<<<<< HEAD
 yolo
+=======
+"Helloooooooo" - Luke's Meme Trade
+>>>>>>> origin/master
 Kane Bullock
 i am a hacker... enter my world
 Luke Baxter 
